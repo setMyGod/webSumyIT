@@ -1,0 +1,93 @@
+
+
+.wrap{
+    box-sizing: border-box;
+    background: url("https://istefan.ro/img/hero/web-developer-newsletter-coder-stefan-iordache.jpg");
+    width:1350px;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+/*https://www.cxoinsightme.com/wp-content/uploads/2020/04/shutterstock_1139124146-scaled.jpg*/
+/*https://blog.clover.com/wp-content/uploads/2021/03/person-coding-on-laptop.jpg*/
+/*https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/low-code-no-code-ITP.jpg?itok=qqEzC3UD*/
+.paragraphs {
+    display: flex;
+    gap: 20px;
+}
+.block{
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    box-sizing: border-box;
+    text-align: center;
+    box-shadow: 5px 1px 5px 5px black;
+    border-radius: 20px;
+    width: 250px;
+    padding: 10px;
+    height: 300px
+
+
+}
+
+h1{
+    font-size: 32px;
+    margin-top: 20px;
+}
+h2{
+    font-size: 22px;
+}
+.par1{
+    color:white;
+}
+.par1:hover{
+    color:crimson;
+
+}
+h1,h2 {
+    color: white;
+}
+
+.bonus{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+
+}
+h3{
+    color: #ffffff;
+}
+
+.btn{
+    display: flex;
+    width: 120px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    background: darkorchid;
+    border-radius: 5%;
+}
+
+
+span{
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+}
+
+
+.registrationp{
+    margin-top: -10px;
+    color: white;
+    letter-spacing: 1px;
+    text-align: center;
+
+}
+
