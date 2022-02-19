@@ -46,7 +46,7 @@ h2{
     color:black;
 }
 .par1:hover{
-    color:cornflowerblue;
+    color:#30dc;;
 
 }
 h1,h2 {
@@ -71,7 +71,7 @@ h3{
     height: 40px;
     justify-content: center;
     align-items: center;
-    background: darkorchid;
+    background: black;
     border-radius: 5%;
 }
 
@@ -79,13 +79,12 @@ h3{
 span{
     font-weight: bold;
     font-size: 14px;
-    color: black;
+    color: #FFFF;
 }
 
 
 .registrationp{
     margin-top: -10px;
-    color: black;
     letter-spacing: 1px;
     text-align: center;
 
