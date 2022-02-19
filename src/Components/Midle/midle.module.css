@@ -2,7 +2,7 @@
 
 .wrap{
     box-sizing: border-box;
-    background: url("https://istefan.ro/img/hero/web-developer-newsletter-coder-stefan-iordache.jpg");
+    background: #FFFF00;
     width:1350px;
     height: 800px;
     display: flex;
@@ -43,14 +43,14 @@ h2{
     font-size: 22px;
 }
 .par1{
-    color:white;
+    color:black;
 }
 .par1:hover{
-    color:crimson;
+    color:cornflowerblue;
 
 }
 h1,h2 {
-    color: white;
+    color: black;
 }
 
 .bonus{
@@ -62,7 +62,7 @@ h1,h2 {
 
 }
 h3{
-    color: #ffffff;
+    color: black;
 }
 
 .btn{
@@ -79,13 +79,13 @@ h3{
 span{
     font-weight: bold;
     font-size: 14px;
-    color: white;
+    color: black;
 }
 
 
 .registrationp{
     margin-top: -10px;
-    color: white;
+    color: black;
     letter-spacing: 1px;
     text-align: center;
 
